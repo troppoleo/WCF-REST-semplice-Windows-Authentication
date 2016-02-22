@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WcfServiceClickView.VlkCheck" CodeBehind="VlkCheck.svc.cs" %>
